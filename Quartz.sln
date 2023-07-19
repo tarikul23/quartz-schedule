@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{93864FD3-BEC7-45D0-8C38-6219910B222A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzClient", "QuartzClient\QuartzClient.csproj", "{572F029B-443F-4F23-86F1-4472BAB9FCC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93864FD3-BEC7-45D0-8C38-6219910B222A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93864FD3-BEC7-45D0-8C38-6219910B222A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93864FD3-BEC7-45D0-8C38-6219910B222A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93864FD3-BEC7-45D0-8C38-6219910B222A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572F029B-443F-4F23-86F1-4472BAB9FCC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572F029B-443F-4F23-86F1-4472BAB9FCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572F029B-443F-4F23-86F1-4472BAB9FCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572F029B-443F-4F23-86F1-4472BAB9FCC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C0CE24-09DD-4BA7-9056-8D29776B21B9}
+	EndGlobalSection
+EndGlobal
